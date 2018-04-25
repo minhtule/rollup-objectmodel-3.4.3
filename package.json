@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "build": "rollup -c"
+  },
+  "dependencies": {
+    "objectmodel": "3.4.3"
+  },
+  "devDependencies": {
+    "rollup": "^0.58.2",
+    "rollup-plugin-node-resolve": "^3.3.0"
+  }
+}
